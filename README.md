@@ -49,6 +49,6 @@ Sitio web [Lorem Ipsum](https://es.lipsum.com/feed/html)
 ![Turo del Carmel](Carmel.jpg "Carmel")
 
 **Imagen en sintaxes HTML**
-<img src="Carmel.png" width="200" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tur%C3%B3_del_Carmel.jpg/1280px-Tur%C3%B3_del_Carmel.jpg" width="200" height="100">
  
 Maecenas nibh ipsum, efficitur sit amet maximus et, dapibus id libero. Aliquam erat volutpat. Maecenas feugiat enim odio, ac ultrices ex pharetra quis. Praesent a facilisis est, et interdum sem. Mauris eget erat auctor, posuere nunc in, malesuada nibh. Morbi venenatis, elit id efficitur varius, dolor mi hendrerit neque, nec egestas enim massa sit amet nulla. Integer in varius erat, in porttitor ligula. Ut sed dignissim ante. Cras at molestie sem.
