@@ -7,7 +7,7 @@ Enlace al sitio web de la Universidad de Costa Rica
 ### Encabezado nivel 3         
 #### Ecabezado nivel 4        
 
-**Texto en negrita**
+**Texto en negrita**     
 __Texto en negrita__
 
 Love**is**bold   
