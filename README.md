@@ -15,6 +15,11 @@ Love**is**bold
 *Texto Italica*
 _Texto Italica_
 
+***Texto en negrita y en italica***         
+___Otro Texto en negrita y en italica___      
+__*OtroTexto en negrita y en italica*__    
+
+
 Encabezado Nivel 1
 ===========         
 <h1> Encabezado Nivel 1</h1>
