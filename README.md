@@ -8,6 +8,9 @@ Enlace al sitio web de la Universidad de Costa Rica
 #### Ecabezado nivel 4        
 
 **Texto en negrita**
+__Texto en negrita__
+
+Love**is**bold   
 
 *Texto Italica*
 
