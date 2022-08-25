@@ -1,4 +1,4 @@
-# Primer pagina web
+# **Primer pagina web**
 
 Enlace al sitio web de la Universidad de Costa Rica       
 [Sitio web UCR](https://www.ucr.ac.cr/)
@@ -12,7 +12,11 @@ Enlace al sitio web de la Universidad de Costa Rica
 *Texto Italica*
 
 Encabezado Nivel 1
-===========
+===========         
+<h1> Encabezado Nivel 1</h1>
 
 Encabezado nivel 2
 ---------------
+
+
+<h6> Encabezado nivel 6 </h6>
