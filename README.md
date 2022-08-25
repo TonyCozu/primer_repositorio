@@ -38,8 +38,8 @@ Encabezado nivel 2
 
 **Lista No numerada**    
 - Arroz  
--     Crudo
--     Cocinadao
+     Crudo
+     Cocinadao
     
 - Frijoles
 
