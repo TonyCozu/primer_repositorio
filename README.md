@@ -14,5 +14,5 @@ Enlace al sitio web de la Universidad de Costa Rica
 Encabezado Nivel 1
 ===========
 
-Ecabezado nivel 2
+Encabezado nivel 2
 ---------------
