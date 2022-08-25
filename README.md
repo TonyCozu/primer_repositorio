@@ -37,7 +37,10 @@ Encabezado nivel 2
 2. Frijoles
 
 **Lista No numerada**    
-- Arroz     
-- -Frijoles
+- Arroz 
+-     Precocido
+-     Cocinado
+-     crduo    
+- Frijoles
  
 Maecenas nibh ipsum, efficitur sit amet maximus et, dapibus id libero. Aliquam erat volutpat. Maecenas feugiat enim odio, ac ultrices ex pharetra quis. Praesent a facilisis est, et interdum sem. Mauris eget erat auctor, posuere nunc in, malesuada nibh. Morbi venenatis, elit id efficitur varius, dolor mi hendrerit neque, nec egestas enim massa sit amet nulla. Integer in varius erat, in porttitor ligula. Ut sed dignissim ante. Cras at molestie sem.
