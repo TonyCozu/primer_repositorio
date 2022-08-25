@@ -10,3 +10,9 @@ Enlace al sitio web de la Universidad de Costa Rica
 **Texto en negrita**
 
 *Texto Italica*
+
+Encabezado Nivel 1
+===========
+
+Ecabezado nivel 2
+---------------
