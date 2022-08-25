@@ -37,7 +37,7 @@ Encabezado nivel 2
 2. Frijoles
 
 **Lista No numerada**    
-- Arroz 
+- Arroz  
 -     Precocido
 -     Cocinado
 -     crduo    
